@@ -1,4 +1,39 @@
 * {
     margin: 0;
     padding: 0;
+    font-family: Calibri;
+}
+
+ article {
+    background-color: #6A42C2;
+}
+
+header {
+    max-width: 100%;
+    margin-left: 20px;
+  
+}
+
+table {
+    width: 100%;
+    background-color: #6A42C2;
+    margin-bottom: 20px;
+}
+
+nav ul {
+    justify-content: right;
+    width: 100%;
+    display: flex;
+    list-style-type: none;
+    
+}
+
+nav ul li {
+    margin: 10px 20px 10px 20px ;
+}
+
+nav ul li a { 
+    font-size: 1.2em;
+    text-decoration: none;
+    color: #E8ECD7;
 }
